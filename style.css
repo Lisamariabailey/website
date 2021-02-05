@@ -48,3 +48,8 @@ h1,h2 {
     margin: 20px;
     font:10px;
 }
+
+#italics {
+    font-style:oblique;
+
+}
