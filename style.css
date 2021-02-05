@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+
+
+body{
+    margin:50px;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+.nav {color: ivory;
+     background-color: gray;
+     font-size: 20px;
+     text-align: center;
+     /* border-width: 0px 0px 5px 0px;
+     border-style:solid;
+     border-color:green */
+
+     
+   
+}  
+h1,h2 {
+    text-align: center;
+    font-family: 'Open Sans Condensed', sans-serif;;
+    font-weight: 500;
+}
+
+
+.pictures {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:90%;
+}
+
+.small {
+    font-size: 16px;
+    text-align:left;
+    text-align: center;
+
+}
+
+.intro {
+    color:black;
+    text-align:left;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.text {
+    font:italic;
+    margin: 20px;
+    font:10px;
+}
